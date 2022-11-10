@@ -23,8 +23,7 @@
 
 ## 2. **Grid**
 <pre>
-  Setup grid row and column size
-  in tailwindcss,
+  - Grid area
 </pre>
 
 ## 3. **CSS Layout**
@@ -44,6 +43,6 @@
  - Animation
  - Transition
  - Transform
- - Grid row and column size
+ - Grid
 </pre>
 
